@@ -1,0 +1,7 @@
+/home/bulat/Intel-RealSense-Projects/Depth-and-Color-to-png/build/CMakeFiles/install/strip.dir
+/home/bulat/Intel-RealSense-Projects/Depth-and-Color-to-png/build/CMakeFiles/edit_cache.dir
+/home/bulat/Intel-RealSense-Projects/Depth-and-Color-to-png/build/CMakeFiles/rebuild_cache.dir
+/home/bulat/Intel-RealSense-Projects/Depth-and-Color-to-png/build/CMakeFiles/PostProcessingDepthandColorCapturing.dir
+/home/bulat/Intel-RealSense-Projects/Depth-and-Color-to-png/build/CMakeFiles/list_install_components.dir
+/home/bulat/Intel-RealSense-Projects/Depth-and-Color-to-png/build/CMakeFiles/install/local.dir
+/home/bulat/Intel-RealSense-Projects/Depth-and-Color-to-png/build/CMakeFiles/install.dir
