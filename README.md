@@ -17,3 +17,20 @@ Sample code for saving depth frames to .png files
 
 ### 6 - Depth-and-Color-to-png.
 Sample code for saving depth and color frames to .png files at the same time
+
+## Building and Running
+Building and running Depth-Streamig for example:
+
+### Building
+```sh
+cd Depth-Streaming
+mkdir build && cd build
+cmake -DCMAKE_BUILD_TYPE=Release ../
+make -j4
+```
+
+### Running 
+```sh
+./DepthStreaming 
+```
+Press any botton to stop.
