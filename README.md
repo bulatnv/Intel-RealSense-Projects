@@ -33,4 +33,4 @@ make -j4
 ```sh
 ./DepthStreaming 
 ```
-Press any bottom to stop.
+Press any botton to stop.
