@@ -9,5 +9,5 @@ make -j4
 
 ### Running 
 ```sh
-./RGBstreaming
+./Color-streaming
 ```

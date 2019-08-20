@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.12)
-project(SavingDepth)
+project(Depth-to-png)
 
 set(THREADS_PREFER_PTHREAD_FLAG ON)
 find_package(Threads REQUIRED)

@@ -9,6 +9,6 @@ make -j4
 
 ### Running 
 ```sh
-./DepthStreaming 
+./Depth-Streaming 
 ```
 Press any botton to stop.
