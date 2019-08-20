@@ -10,6 +10,6 @@ make -j4
 
 ### Running 
 ```sh
-./Treads-Depth-Post-Processing
+./Threads-Depth-Post-Processing
 ```
 Press any botton to stop.
